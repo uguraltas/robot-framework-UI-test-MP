@@ -1,0 +1,178 @@
+[
+  {
+    "name": "VSTR_ID",
+    "value": "01d78980-2300-4835-a1f0-883c755f5543",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": 1769713242.387375,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "CLIENT_SESSION_ID",
+    "value": "891f1d39-d270-41d0-8a43-3304bb47a09f",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": 1738180246.03423,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "rnid",
+    "value": "9c1fc014-f993-4751-9ae6-0f674e36ba0b",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1772737242.462517,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.367211038.1738177246",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1745953246,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.427225085.1738177243",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1772737246.102683,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.2.1738177246129.736440617",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1745954446,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.3.1738177246129.736440617",
+    "domain": ".www.migros.com.tr",
+    "path": "/",
+    "expires": 1745953246,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_vwo_uuid_v2",
+    "value": "DC9861480FBE67DA2CACC775CEA54AA60|e7096ea87033fac253e9922be5e1357b",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1769800845,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "lastSource",
+    "value": "direct",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": 1740770445,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_tt_enable_cookie",
+    "value": "1",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1771874446,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ttp",
+    "value": "0J72oqFoq_lAAJrOu4dJ7a9cMYF.tt.2",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1771874446,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_cfuvid",
+    "value": "dHvd35vv5fQOQUcSlWDUNmU8E0FDacBZaTOGyglW_qE-1738178444750-0.0.1.1-604800000",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "cookieSettings",
+    "value": "%7B%22indicatorSeen%22%3Atrue%2C%22analyseCookies%22%3Atrue%2C%22marketingCookies%22%3Atrue%2C%22systemCookies%22%3Atrue%7D",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "c_id",
+    "value": "20",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "search-promotes",
+    "value": "%5B%7B%22company%22%3A%22SANALMARKET%22%2C%22identifier%22%3A%22Sevdi%C4%9Finiz%20Starbucks%20Lezzetleri%20Evinizde!-1737975616227%22%2C%22text%22%3A%22Sevdi%C4%9Finiz%20Starbucks%20Lezzetleri%20Evinizde!%22%2C%22priority%22%3A100%2C%22callToActionName%22%3A%22%22%2C%22callToActionType%22%3A%22REDIRECT%22%2C%22callToActionUrl%22%3A%22%2Fstarbucks-urunleri-l-bbc55f5%22%7D%5D",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": 1738179045,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_KTN3ZLW2R5",
+    "value": "GS1.1.1738177243.1.1.1738178446.42.0.0",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1772738446.20813,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "cto_bundle",
+    "value": "Qg6OLl80WkFGOGlRQmlYdmhlY0pIMjlyRlNEWlhNWFZlOHIxWXhTJTJGaEY4ZTdraVUzTEluVnVQTHJFM2R4WjF6cElVWThHdGliUnpOMWNaQWV1OUEzcUxJZVVDNXh4U2I1RGpWajFwVWFWQzhTYzdBRnRucHNDcE9VU1NoQ01PdXVsRXVSd2RHT3lTcm1LWXgxMUFYMmxKRVBjOGpLang0alNEd09saldEYmtBeWpNaWRVc25GVGEwd2hkUUN0NkVoV0NJNFdHY3ZiVWxOUzhtT2J1T2oxVktleUElM0QlM0Q",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1772342446,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__eoi",
+    "value": "ID=bffb00bc6eeee740:T=1738177244:RT=1738178446:S=AA-AfjaqeiCSoOstVj6HA5Cj0wxZ",
+    "domain": ".migros.com.tr",
+    "path": "/",
+    "expires": 1753729244,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_dd_s",
+    "value": "logs=1&id=0b8ee5e9-0635-4e13-9b06-e7bfb61ec118&created=1738177189883&expire=1738179344467&rum=0",
+    "domain": "www.migros.com.tr",
+    "path": "/",
+    "expires": 1738179348,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  }
+]
