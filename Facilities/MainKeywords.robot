@@ -1,5 +1,5 @@
 *** Settings ***
-Library    SeleniumLibrary
+Library    SeleniumLibrary  run_on_failure=NOTHING
 Library  Collections
 
 *** Keywords ***
@@ -28,8 +28,16 @@ Accept Cookies and Close Popover
     Click On Element    ${accept_cookies}
 
 Take Screenshot If Test Fails And Close Browser
-    Run Keyword If Test Failed    Capture Page Screenshot
+    Run Keyword If Test Failed    Save Screenshot With Test Name
     Close All Browsers
+
+Save Screenshot With Test Name
+    ${test_name}    Replace String    ${TEST NAME}    ${SPACE}    _
+    ${screenshot_dir}    Set Variable    ${OUTPUT DIR}/screenshots
+    Create Directory    ${screenshot_dir}
+    ${filename}    Set Variable    ${screenshot_dir}/${test_name}.png
+    Capture Page Screenshot    ${filename}
+    Log    Screenshot saved as ${filename}
 
 I Go to the Pet Shop Page From The Categories Section
     Accept Cookies and Close Popover
@@ -40,7 +48,7 @@ I Go to the Pet Shop Page From The Categories Section
 
 I Will See Url As
     [Arguments]    ${url}
-    Location Should Be    https://www.migros.com.tr/pet-shop-c-a0
+    Location Should Be    ${url}
     Wait Until Element Is Not Visible    ${loading}     10s
 
 I Will See Page Contains

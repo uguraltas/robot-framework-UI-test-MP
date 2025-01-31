@@ -4,7 +4,7 @@ Robot framework UI Test Automation
 
 **Installations**
 
-*   _python 3.7.2 :_ [https://www.python.org/downloads/release/python-372/]
+*   _python 3.7.2 :_ [https://www.python.org/downloads/release/python-372/](https://www.python.org/downloads/release/python-372/)
 
 1. Install robotframework:
 	
