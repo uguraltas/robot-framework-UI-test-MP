@@ -13,3 +13,4 @@ ${loading}        //div[@id='cdk-overlay-5']
 ${migros_url}   https://www.migros.com.tr/
 ${cookie_file}   ./Resources/cookies.json
 ${browser}    Chrome
+${screenshot_dir}   /Screenshots
